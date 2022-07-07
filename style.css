@@ -6,7 +6,7 @@
 
 nav{
     background-color: rgb(37, 9, 37);
-    color: white;
+    color: wheat;
     height: 65px;
     font-size: 27px;
     display: flex;
@@ -34,7 +34,7 @@ nav ul{
 }
 
 .box{
-    border: 2px solid black;
+    border: 2px solid rgb(43, 226, 86);
     font-size: 8vw;
     cursor: pointer;
     display: flex;
@@ -43,7 +43,7 @@ nav ul{
 }
 
 .box:hover{
-    background-color: rgb(242, 234, 250);
+    background-color: rgb(120, 230, 210);
 }
 
 .info {
@@ -96,7 +96,7 @@ nav ul{
     height: 3px;
     width: 0;
     position: absolute;
-    background-color: #911d91;
+    background-color: #ee8dee;
     transition: width 1s ease-in-out;
 }
 
